@@ -1,1 +1,1 @@
-newman run <directory>simpleBookAPI.postman_collection.json --reporters cli,htmlextra --reporter-htmlextra-export C:\Users\Omeiza\Desktop\6\pman\simpleBookAPI_report.html
+newman run <directory>simpleBookAPI.postman_collection.json --reporters cli,htmlextra --reporter-htmlextra-export <dir>simpleBookAPI_report.html
