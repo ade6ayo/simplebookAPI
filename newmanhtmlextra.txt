@@ -1,0 +1,1 @@
+newman run C:\Users\Omeiza\Desktop\6\pman\simpleBookAPI.postman_collection.json --reporters cli,htmlextra --reporter-htmlextra-export C:\Users\Omeiza\Desktop\6\pman\simpleBookAPI_report.html
